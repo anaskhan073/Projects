@@ -1,4 +1,4 @@
-## Pizza Sales
+# Pizza Sales
 
 ![image](https://github.com/user-attachments/assets/12971a7b-2b40-4d3d-bca3-92154ec97b45)
 ![image](https://github.com/user-attachments/assets/09c35b3c-ec13-4054-897a-bf474ab161b9)
